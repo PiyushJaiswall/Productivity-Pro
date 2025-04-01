@@ -2,7 +2,7 @@
 
 A full-stack productivity application with task management, Pomodoro timer, and analytics.
 
-![App Screenshot](/client/public/screenshot.png) <!-- Add your screenshot here -->
+![App Screenshot](focus.png)
 
 ## Features ✨
 
